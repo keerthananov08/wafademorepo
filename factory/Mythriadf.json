@@ -1,0 +1,9 @@
+{
+	"name": "Mythriadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b9c9c17-04ef-4ca9-9a56-85dfae1e4675",
+		"tenantId": "6f0adc5f-14f8-4487-b90e-7392eefa21fd"
+	}
+}
